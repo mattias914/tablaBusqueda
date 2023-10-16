@@ -1,0 +1,27 @@
+.mensajeError{
+    margin-top:16px;
+    display: flex;
+    height: 75px;
+    background-color: #f6d7d9;
+    border:1px solid #212121;
+    padding: 0 10px;
+    border-radius: 10px;
+    color: #c78375;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.mensajeCorrecto{
+    display: flex;
+    margin-top:16px;
+    height: 75px;
+    background-color: #a8ffad;
+    border:1px solid #212121;
+    border-radius: 10px;
+    color: green;
+    padding: 0 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
